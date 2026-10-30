@@ -1,0 +1,8 @@
+name = "helloworks"
+main = "_worker.js"
+compatibility_date = "2025-11-04"
+keep_vars = true
+
+[[kv_namespaces]]
+binding = "KV"
+id = "ec05a33080784672bd8f3e0a8a585be1"
